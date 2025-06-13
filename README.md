@@ -1,4 +1,5 @@
- https://readme-typing-svg.demolab.com/demo/?size=24&lines=%F0%9F%91%8B+Hi%2C+I'm+Pathan+%E2%80%94+A+Passionate+Java+Backend+Developer!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=1400&height=80&lines=%F0%9F%91%8B+Hi%2C+I'm+Pathan+;%E2%80%94+a+Full-Stack+Developer+with+a+passion+for+clean+code+and+efficient+systems.)](https://git.io/typing-svg)
+
 
 🌱 Constant Learner | 💻 Full-Stack Developer in Training | ☕ Java + Spring Boot Enthusiast  
 📍 Based in Maharashtra | Open to Relocation   
