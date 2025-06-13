@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Smile Khan — A Passionate Java Backend Developer!
+ https://readme-typing-svg.demolab.com/demo/?size=24&lines=%F0%9F%91%8B+Hi%2C+I'm+Pathan+%E2%80%94+A+Passionate+Java+Backend+Developer!
 
 🌱 Constant Learner | 💻 Full-Stack Developer in Training | ☕ Java + Spring Boot Enthusiast  
 📍 Based in Maharashtra | Open to Relocation   
@@ -57,4 +57,4 @@
 - 📁 Building projects from scratch  
 - 🧠 System design fundamentals  
 - 🧪 Writing test cases and learning JUnit & Mockito  
-- ✍️ Regularly sharing knowledge through [LinkedIn articles](https://linkedin.com/in/your-profile)
+- ✍️ Regularly sharing knowledge through [LinkedIn articles](https://www.linkedin.com/in/pathan-ismailkhan-b67826222/)
