@@ -29,11 +29,20 @@
 
 ## 📈 GitHub Stats
 
+## 📈 GitHub & LeetCode Stats
+
 <p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smile-Khan&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api?username=Smile-Khan&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smile-Khan&layout=compact&theme=radical" />
 </p>
+
+<p align="center">
+  <!-- LeetCode Streak Card -->
+  <img src="https://leetcard.jacoblin.cool/ismailkhan21?theme=dark&font=Source%20Code%20Pro&ext=heatmap" />
+</p>
+
 
 ![GitHub Snake Light](https://github.com/Smile-Khan/Smile-Khan/blob/output/github-contribution-grid-snake.svg)
 <!-- ![GitHub Snake Dark](https://github.com/Smile-Khan/Smile-Khan/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark) -->
