@@ -35,7 +35,7 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smile-Khan&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api?username=Smile-Khan&show_icons=true&theme=radical" />
-  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smile-Khan&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smile-Khan&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
