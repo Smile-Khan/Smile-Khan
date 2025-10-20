@@ -27,7 +27,7 @@
 
 ---
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats -->
 
 ## 📈 GitHub & LeetCode Stats
 
