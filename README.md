@@ -72,19 +72,13 @@
 ---
 
 ## 📊 Analytics & Performance
-
 <p align="center">
-  <!-- Stable GitHub Stats Mirror -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Smile-Khan&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
-  <!-- Stable Top Langs Mirror -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smile-Khan&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Smile-Khan&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Smile-Khan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
 <p align="center">
-  <!-- Reliable Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smile-Khan&theme=radical" alt="GitHub Streak" />
 </p>
-
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ismailkhan21?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" />
 </p>
