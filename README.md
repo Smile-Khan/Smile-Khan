@@ -74,20 +74,20 @@
 ## 📊 Analytics & Performance
 
 <p align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smile-Khan&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <!-- GitHub General Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Smile-Khan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <!-- Top Languages -->
+  <!-- Stable GitHub Stats Mirror -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Smile-Khan&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
+  <!-- Stable Top Langs Mirror -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smile-Khan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <!-- LeetCode Stats (Using a more stable API) -->
-  <img src="https://leetcard.jacoblin.cool/ismailkhan21?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode Stats" />
+  <!-- Reliable Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smile-Khan&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- Replacement for the unstable LeetCode Heatmap -->
+  <img src="https://github-readme-stats.vercel.app/api/leetcode?username=ismailkhan21&theme=radical&hide_border=false" alt="LeetCode Stats" />
 </p>
 
 ---
