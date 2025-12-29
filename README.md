@@ -86,8 +86,7 @@
 </p>
 
 <p align="center">
-  <!-- Replacement for the unstable LeetCode Heatmap -->
-  <img src="https://github-readme-stats.vercel.app/api/leetcode?username=ismailkhan21&theme=radical&hide_border=false" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/ismailkhan21?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
