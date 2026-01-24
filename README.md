@@ -76,9 +76,11 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Smile-Khan&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Smile-Khan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smile-Khan&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Smile-Khan&theme=react-dark&hide_border=false&area=true" alt="Contribution Graph" />
 </p>
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ismailkhan21?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" />
 </p>
@@ -95,3 +97,5 @@
 <p align="center">
   <img src="https://github.com/Smile-Khan/Smile-Khan/blob/output/github-contribution-grid-snake.svg" />
 </p>
+
+
