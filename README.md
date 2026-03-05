@@ -65,9 +65,12 @@
 - **Architecture:** 4-tier microservices (Java 21) integrating with Trustly.
 - **Security:** Implemented HMAC-SHA256 and RSA signatures for secure service communication.
 
-### ✅ [Full-Stack Task Manager](https://github.com/Smile-Khan/todo-app)
-**The UI/UX Bridge:** A clean, responsive application to demonstrate end-to-end integration.
-- **Stack:** React.js frontend + Spring Boot REST API backend.
+### 🌐 [Prism × Sentinel Nexus: CQRS-Based Distributed Discovery Engine](https://github.com/Smile-Khan/prism-sentinel-nexus)
+**The Full Ecosystem:** Combining high-concurrency writes with real-time search discovery using CQRS architecture.
+- **Architecture:** Full CQRS split — Sentinel (writes) + Prism (reads) — designed and built as Lead Architect end-to-end.
+- **Command Side:** Debezium CDC streams PostgreSQL WAL changes through Kafka into Elasticsearch — typo-tolerant fuzzy search, zero dual-write inconsistencies.
+- **Resilience:** Exponential backoff retries, Dead Letter Topics (DLT), 99.9% message delivery guarantee.
+- **Ops:** Full observability via Prometheus + Grafana across a Maven multi-module monorepo — one-click startup.
 
 ---
 
