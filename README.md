@@ -10,7 +10,7 @@
 
 ---
 
-### ⚡ Technical Consistency (1,200+ Day Club)
+### ⚡ Technical Consistency (1227+ Day Club)
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode%20Streak-1148+%20Days-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   <img src="https://img.shields.io/badge/GFG%20Streak-993+%20Days-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
