@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Smile-Khan/Smile-Khan/main/assets/name_star_rain.svg" width="100%" alt="Pathan Ismailkhan" />
 </div>
-</div>
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/📍-Maharashtra%2C%20India-blue?style=flat-square" alt="Location" />
